@@ -1,0 +1,21 @@
+{
+  "name": "toybox",
+  "displayName": "toybox",
+  "description": "Just a little soft guy. Based on Dracula.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Toybox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Toybox-color-theme.json"
+      }
+    ]
+  }
+}
